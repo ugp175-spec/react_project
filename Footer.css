@@ -1,0 +1,5 @@
+.footer { margin-top: 55px; background: #fff; border-top: 1px solid #e8e5ef; }
+.footer-inner { max-width: 1100px; margin: auto; padding: 25px 22px; text-align: center; }
+.footer-brand { color: #7047c5; font-size: 19px; font-weight: 700; }
+.footer p { color: #716b7c; font-size: 13px; margin: 8px 0 13px; }
+.footer small { color: #898392; font-size: 12px; }

@@ -1,0 +1,7 @@
+.tool-card { display: flex; flex-direction: column; align-items: flex-start; min-height: 190px; padding: 19px; background: #fff; border: 1px solid #e7e3ee; border-radius: 10px; color: #29243a; transition: border-color .15s, transform .15s; }
+.tool-card:hover { border-color: #a78bda; transform: translateY(-2px); }
+.tool-card-icon { display: grid; place-items: center; width: 42px; height: 42px; color: #7047c5; background: #f0eafb; border-radius: 9px; margin-bottom: 13px; }
+.tool-card-category { color: #7651c8; font-size: 11px; text-transform: uppercase; letter-spacing: .7px; font-weight: 700; }
+.tool-card h3 { margin: 7px 0 5px; font-size: 16px; }
+.tool-card p { margin: 0 0 14px; color: #716b7c; font-size: 13px; line-height: 1.5; }
+.tool-card-link { display: inline-flex; align-items: center; gap: 6px; margin-top: auto; color: #7047c5; font-size: 13px; font-weight: 600; }
